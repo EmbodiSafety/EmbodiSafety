@@ -9,7 +9,7 @@
   <a href="https://huggingface.co/datasets/cuierfei/EmbodiSafety">数据集</a> |
   <a href="EVALUATION.zh-CN.md">评测文档</a> |
   <a href="#-leaderboard">排行榜</a> |
-  论文 |
+  <a href="https://arxiv.org/abs/2611.33054">论文</a> |
   <a href="README.md">English</a>
 </h2>
 
@@ -126,5 +126,11 @@ Snapshot（1,092 条）与 Trajectory（540 条）的累计准确率（%）。**
 
 
 ```bibtex
-
+@article{cui2026embodisafety,
+  title   = {{EmbodiSafety}: Benchmarking Risk Understanding and Response in Embodied {AI}},
+  author  = {Cui, Erfei and Zhao, Shengjia and Qin, Yan and Wang, Kaixuan and Chen, Junming and Luo, Ping and Chen, Tianxing},
+  journal = {arXiv preprint arXiv:2611.33054},
+  year    = {2026},
+  url     = {https://arxiv.org/abs/2611.33054}
+}
 ```

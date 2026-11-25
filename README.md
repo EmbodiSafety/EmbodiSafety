@@ -9,7 +9,7 @@
   <a href="https://huggingface.co/datasets/cuierfei/EmbodiSafety">Dataset</a> |
   <a href="EVALUATION.md">Evaluation Guide</a> |
   <a href="#-leaderboard">Leaderboard</a> |
-  Paper |
+  <a href="https://arxiv.org/abs/2611.33054">Paper</a> |
   <a href="README.zh-CN.md">中文</a>
 </h2>
 
@@ -126,5 +126,11 @@ Cumulative accuracy (%) on Snapshot (1,092 tasks) and Trajectory (540 tasks). **
 
 
 ```bibtex
-
+@article{cui2026embodisafety,
+  title   = {{EmbodiSafety}: Benchmarking Risk Understanding and Response in Embodied {AI}},
+  author  = {Cui, Erfei and Zhao, Shengjia and Qin, Yan and Wang, Kaixuan and Chen, Junming and Luo, Ping and Chen, Tianxing},
+  journal = {arXiv preprint arXiv:2611.33054},
+  year    = {2026},
+  url     = {https://arxiv.org/abs/2611.33054}
+}
 ```
